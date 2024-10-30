@@ -1,7 +1,7 @@
 
 
 build:
-    go build -o ./bin/eolas ./cmd/eolas/
+    go build -o ./bin/eolas ./
 
 run: build
     ./bin/eolas
