@@ -1,3 +1,3 @@
-module github.com/BryanMcGahan/eolas
+module eolas
 
 go 1.23.2
